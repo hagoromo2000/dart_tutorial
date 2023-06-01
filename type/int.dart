@@ -1,5 +1,3 @@
-import 'dart:async';
-
 void main() {
   // 10進数
   const int a = 100;
