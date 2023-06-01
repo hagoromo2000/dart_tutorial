@@ -8,7 +8,7 @@ void main() {
   print(a && b); // false
 
   // ||
-  print(a || b); // true
+  // print(a || b); // true
   print(b || b); // false
 
   // !
